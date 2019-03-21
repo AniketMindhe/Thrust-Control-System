@@ -1,1 +1,0 @@
-# Thurst-Control-System
